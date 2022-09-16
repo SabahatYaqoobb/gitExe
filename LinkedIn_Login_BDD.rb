@@ -2,7 +2,7 @@
 Feature: Login
 
 As a QA
-I want to test LinkedIn login page
+I want to write code in B
 
 @ui_web @automated @priority_high @negative @LinkedIn
 Scenario: Error on Null Fields
