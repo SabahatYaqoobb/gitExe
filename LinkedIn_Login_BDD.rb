@@ -2,7 +2,7 @@
 Feature: Login
 
 As a QA
-I want to write code in A
+I want to write code in B
 
 @ui_web @automated @priority_high @negative @LinkedIn
 Scenario: Error on Null Fields
